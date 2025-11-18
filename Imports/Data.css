@@ -1,5 +1,5 @@
-@import url(https://github.com/blueberry-lees/Custom-Discord-Appearance/blob/main/SettingsIcons.css);
-@import url(https://github.com/blueberry-lees/Custom-Discord-Appearance/blob/main/BlurpleRecolor.css);
+@import url(https://github.com/blueberry-lees/Custom-Discord-Appearance/blob/main/Imports/SettingsIcons.css);
+@import url(https://github.com/blueberry-lees/Custom-Discord-Appearance/blob/main/Imports/BlurpleRecolor.css);
 
 :root {
 	--overflowfloat:			0.00000000000000000000001;
